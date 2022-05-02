@@ -63,15 +63,15 @@ Below you'll see the tables and plots and charts available when using the librar
 
 In this Chart 1 - you'll see the aggregate across the region for gross rents and sales prices/square foot.  The trend is clearly steeper for rentals than for sales prices.  
 
-![Chart 1](../Challenge_6/Images/Chart_1_gross.png)
+![Chart 1](https://github.com/Cryptopher2022/Challenge_6/blob/main/Images/Chart_1_gross.png)
 
 In Chart 2 - we use a very cool interactive chart that will allow the user to select which neighborhood they'd like to see for rental and sales data.  
 
-![Chart2](../Challenge_6/Images/Chart_2_by_neighborhood.png)
+![Chart2](https://github.com/Cryptopher2022/Challenge_6/blob/main/Images/Chart_2_by_neighborhood.png)
 
 In Chart 3 - the individual neighborhoods have been analyzed as if they were a stock or crypto, using the percent change from one period to the next.  When you graph a 5 year period for each neighborhood, the results appear not so convincing.  
 
-![Chart3](../Challenge_6/Images/Chart_3_individual_pct_change.png)
+![Chart3](https://github.com/Cryptopher2022/Challenge_6/blob/main/Images/Chart_3_individual_pct_change.png)
 
 These somewhat conflicting data visualizations give cause to dig deeper.  The interim conclusion is that the app should be built using data that provides a clear cut answer to the user.  
 
